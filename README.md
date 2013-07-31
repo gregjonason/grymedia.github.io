@@ -1,4 +1,4 @@
 grymedia.github.io
 ==================
 
-gry media
+gryMedia
